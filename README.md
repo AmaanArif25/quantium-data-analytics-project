@@ -1,4 +1,4 @@
-# 🧮 Quantium Data Analytics Project – Data Analyst Intern (Job Simulation)
+# 🧮 Quantium Data Analytics Project – Data Analyst
 
 ## 📌 Project Overview
 This project was completed as part of a data analytics job simulation provided by Quantium. The focus was on analyzing transaction datasets to extract valuable commercial insights and provide data-driven recommendations to optimize retail strategies.
