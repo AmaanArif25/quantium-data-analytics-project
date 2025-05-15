@@ -41,7 +41,8 @@ To analyze customer transaction data, identify trends, assess trial layouts, and
 - End-to-End Analytical Problem Solving
 
 ## 📷 Screenshots
-*(You can upload and insert charts and dashboards you created during the project here)*
+![image](https://github.com/user-attachments/assets/42abdeed-27c4-4dab-baff-f9ef40576646)
+
 
 ---
 
